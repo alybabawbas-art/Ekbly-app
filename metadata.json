@@ -1,0 +1,7 @@
+{
+  "name": "Ektply",
+  "description": "تطبيق تفريغ صوتي عربي دقيق وسريع لتحويل الصوت والتسجيلات إلى نصوص عربية مكتوبة",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
